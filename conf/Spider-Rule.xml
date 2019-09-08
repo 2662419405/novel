@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+	<site>
+		<title>笔迹阁</title>
+		<charset>GBK</charset>
+		<url>http://www.bimige.cc</url>
+		<chapter-list-selector>.chapter_list ul li a</chapter-list-selector>
+		<chapter-detail-content-selector>.t-cmt
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>.prevchap</chapter-detail-prev-selector>
+		<chapter-detail-title-selector>#chaptitle
+		</chapter-detail-title-selector>
+		<chapter-detail-next-selector>.nextchap</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>追书神器</title>
+		<charset>UTF-8</charset>
+		<url>http://www.zhuishushenqi.com</url>
+		<chapter-list-selector>#J_chapterList li a</chapter-list-selector>
+		<chapter-detail-content-selector>.inner-text
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>#J_rightToolBar a
+		</chapter-detail-prev-selector>
+		<chapter-detail-title-selector>.current-chapter
+		</chapter-detail-title-selector>
+		<chapter-detail-next-selector>#J_rightToolBar a,2
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>17k小说</title>
+		<charset>UTF-8</charset>
+		<url>http://www.17k.com</url>
+		<chapter-list-selector>.Volume dd a</chapter-list-selector>
+		<chapter-detail-content-selector>.readAreaBox .p
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>.NextPrevBtn .last a
+		</chapter-detail-prev-selector>
+		<chapter-detail-title-selector>.readAreaBox h1
+		</chapter-detail-title-selector>
+		<chapter-detail-next-selector>.NextPrevBtn .next a
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>逐浪文学网</title>
+		<charset>UTF-8</charset>
+		<url>http://www.zhulang.com</url>
+		<chapter-list-selector>.chapter-list ul li a</chapter-list-selector>
+		<chapter-detail-content-selector>#read-content p
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>#prevChapterBtn
+		</chapter-detail-prev-selector>
+		<chapter-detail-title-selector>#read-content h2
+		</chapter-detail-title-selector>
+		<chapter-detail-next-selector>#nextChapterBtn
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>笔下文学</title>
+		<charset>UTF-8</charset>
+		<url>http://www.bxwx9.org</url>
+		<chapter-list-selector>#TabCss dd a</chapter-list-selector>
+		<chapter-detail-title-selector>#title</chapter-detail-title-selector>
+		<chapter-detail-content-selector>#content
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>#footlink a,2
+		</chapter-detail-prev-selector>
+		<chapter-detail-next-selector>#footlink a,4
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>23文学</title>
+		<charset>GBK</charset>
+		<url>http://www.23wenxue.com</url>
+		<chapter-list-selector>.chapters li a</chapter-list-selector>
+		<chapter-detail-title-selector>.title</chapter-detail-title-selector>
+		<chapter-detail-content-selector>#content
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>.nrfunc a,0
+		</chapter-detail-prev-selector>
+		<chapter-detail-next-selector>.nrfunc a,2
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>看书中</title>
+		<charset>UTF-8</charset>
+		<url>http://www.kanshuzhong.com</url>
+		<chapter-list-selector>.mulu_list li a</chapter-list-selector>
+		<chapter-detail-title-selector>.h1title h1
+		</chapter-detail-title-selector>
+		<chapter-detail-content-selector>#htmlContent
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>#pager_prev
+		</chapter-detail-prev-selector>
+		<chapter-detail-next-selector>#pager_next
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>顶点小说</title>
+		<charset>UTF-8</charset>
+		<url>http://www.dingdiann.com</url>
+		<chapter-list-selector>#list dl dd a</chapter-list-selector>
+		<chapter-detail-title-selector>.bookname h1
+		</chapter-detail-title-selector>
+		<chapter-detail-content-selector>#content
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>.pre</chapter-detail-prev-selector>
+		<chapter-detail-next-selector>.next</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>小说族</title>
+		<charset>GBK</charset>
+		<url>http://www.xiaoshuozu.com</url>
+		<chapter-list-selector>.listmain dl dd a</chapter-list-selector>
+		<chapter-detail-title-selector>.content h1
+		</chapter-detail-title-selector>
+		<chapter-detail-content-selector>#content
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>.page_chapter ul li a,0
+		</chapter-detail-prev-selector>
+		<chapter-detail-next-selector>.page_chapter ul li a,2
+		</chapter-detail-next-selector>
+	</site>
+	<site>
+		<title>新顶点</title>
+		<charset>GBK</charset>
+		<url>http://www.xs222.cc</url>
+		<chapter-list-selector>.listmain dl dd a</chapter-list-selector>
+		<chapter-detail-title-selector>.content h1
+		</chapter-detail-title-selector>
+		<chapter-detail-content-selector>#content
+		</chapter-detail-content-selector>
+		<chapter-detail-prev-selector>.page_chapter ul li a,0
+		</chapter-detail-prev-selector>
+		<chapter-detail-next-selector>.page_chapter ul li a,2
+		</chapter-detail-next-selector>
+	</site>
+</sites>
